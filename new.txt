@@ -1,2 +1,4 @@
 Hello Lead!
 Please merge my PR
+
+Okay Member, PR merged.
